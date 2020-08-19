@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: "/teaching/"
 ---
 
-* Here is a bulleted teaching point!
-* Here's another! 
+## Teaching Assistant, Washington University in St. Louis
+* Undergraduate Level
+
+	* Psychology of War (Carly Wayne), Fall 2020

@@ -2,5 +2,6 @@
 layout: default
 ---
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+<img align="right" src="files/portrait.JPG" hspace="20"  width="261" height="348" >
+
+<p>I am a second year Ph.D. student of Political Science at Washington University in St. Louis. I study comparative politics and political methodology. Using experimental methods and text analysis, I aim to uncover the effects of communication on mobilization.</p>
